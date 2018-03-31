@@ -16,6 +16,6 @@ function shout(string) {
 
 function sayHiToGrandman(string) {
   if(string.toLowerCase() === string) {
-    return ''
+    return 'I cant hear you'
   }
 }
