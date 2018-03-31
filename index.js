@@ -12,3 +12,6 @@ function shout(string) {
 
 function shout(string) {
   console.log(string.toLowerCase())
+}
+
+
