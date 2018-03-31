@@ -14,7 +14,7 @@ function shout(string) {
   console.log(string.toLowerCase())
 }
 
-function sayHiToGrandman(string) {
+function sayHiToGrandma(string) {
   if(string.toLowerCase() === string) {
     return 'I cant hear you'
   }
